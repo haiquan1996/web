@@ -12,7 +12,7 @@ p,body,a,span,strong,li{font-size:16px}
 p,ul,ol,pre,table{margin-bottom:10px;text-align:  justify;}
 img{max-width:100%}
 .section1{background:url(https://1.bp.blogspot.com/-2JZLoHQSjAY/XWzYC4bQq9I/AAAAAAAAA4I/8SHH1JmOtQAlGf6y7BFxv-bqbBYmOkV5gCLcBGAs/s1600/tienichhotram2.jpg);background-size:cover;background-position:center;height:-moz-calc(100% - (1px));height:-webkit-calc(100% - (1px));height:calc(100% - (1px))}
-.section3{background:url(upload/bg1.jpg);background-size:cover;background-position:top;padding:100px 0 60px}
+.section3{background:url(https://raw.githubusercontent.com/haiquan1996/web/master/giaodien.css);background-size:cover;background-position:top;padding:100px 0 60px}
 .section4{background:url(upload/bg2.gif);background-size:cover;background-position:top;padding:120px 0}
 #header #header-wrap,#header.header-sticky #header-wrap{background-color:rgba(172,148,85,0.5)!important;border-bottom:none}
 #header .header-extras{background:rgba(215,188,113,0.8);height: 40px;padding:0 22px 0 8px;border-bottom-left-radius:10em;position:relative;}
